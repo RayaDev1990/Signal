@@ -1,7 +1,7 @@
 # Signal
-Signal Tunnel VPN
+Signal VPN Client
 
-Signal Tunnel VPN is a desktop application designed to provide unrestricted internet access by establishing secure SSH tunnels. The software offers a user-friendly interface, making it easy to configure and manage your connections. With straightforward setup options, Signal Tunnel VPN ensures that users can easily navigate through the settings to establish a secure and reliable connection to the open internet.
+Signal VPN Client is a desktop application designed to provide unrestricted internet access by establishing secure SSH tunnels. The software offers a user-friendly interface, making it easy to configure and manage your connections. With straightforward setup options, Signal VPN Client ensures that users can easily navigate through the settings to establish a secure and reliable connection to the open internet.
 
 
 Donate :
